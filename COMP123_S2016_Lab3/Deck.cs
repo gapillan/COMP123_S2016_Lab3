@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace COMP123_S2016_Lab3
 {
+    /**
+     * <summary>
+     * This class extends the List<Card> generic type
+     * </summary> 
+     * 
+     * @class Deck 
+     */
     class Deck : List<Card>
     {
         //CONSTRUCTORS 
