@@ -6,8 +6,19 @@ using System.Threading.Tasks;
 
 namespace COMP123_S2016_Lab3
 {
+    /**
+     * This class is the "driver" class for our Program 
+     * 
+     * @class Program 
+     */
     class Program
     {
+        /**
+         * The main method of our driver class Program 
+         * 
+         * @method Main 
+         * @param {string[]} args
+         */
         static void Main(string[] args)
         {
             Deck deck = new Deck(); // create a deck of cards  
